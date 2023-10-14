@@ -398,17 +398,9 @@ textarea {
         padding: 80px 20px;
 
     }
-    .main-content h2 {
-        font-size: 1rem;
-    }
-    .main-content h3 {
-        padding: 1.6rem;
-    }
+    
     .content {
         flex-direction: column;
         align-items: center;
-    }
-    #about {
-        font-size: 1rem;
-    }
+
 }
